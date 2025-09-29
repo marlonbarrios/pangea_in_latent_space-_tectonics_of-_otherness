@@ -28,3 +28,5 @@ Throughout the festival (**October 1–5, 2025**), the installation will feature
 - **Participatory performances** inviting visitors to sense, move, and think with the **shifting tectonics of otherness**
 
 **Pangea in Latent Space: The Tectonics of Otherness** proposes an ever-changing field of inquiry — a space of **migration, speculation, and embodied cognition**, where the **ground itself moves**, and we move with it.
+
+<a href="https://github.com/marlonbarrios/list_of_applications_UI/blob/mondrian/README.md#list_of_applications_ui" target="_blank">Apps and interfaces of Pangea in Latent Space The Tectonics of Otherness</a>
