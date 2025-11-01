@@ -1,5 +1,7 @@
 # Pangea in Latent Space: The Tectonics of Otherness
 
+<img width="1373" height="1000" alt="476354647-a408fcbd-4c1b-4901-b6ce-4614472d8c62" src="https://github.com/user-attachments/assets/f9e2d6d6-dc36-4d74-a1fe-0990e8dbbb68" />
+
 **Pangea in Latent Space: The Tectonics of Otherness** is a **research-creation project** initiated and led by **Marlon Barrios Solano** (Venezuela/USA) and **María Luisa Angulo** (El Salvador/France) as part of the **Pangea_IA Collective** (August 2024-October 2025). It is being developed during the residency **Beyond Gravity** at **DIPOD / Theater im Depot** in **Dortmund, Germany**, within the **Beyond Gravity Festival and Symposium (October 1–5, 2025)**.
 
 This project investigates the **tectonics of otherness** — the deep, shifting forces that shape relationships between **coloniality and postcoloniality**, **self and other**, **human and machine**, **memory and speculation**. We understand these forces as **dynamic vectors**, continuously in motion, intersecting across bodies, lands, and epistemologies.
