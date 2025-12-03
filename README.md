@@ -2,7 +2,7 @@
 
 ![PXL_20251003_141311277](https://github.com/user-attachments/assets/57a558c5-aad2-4919-ba4d-0734dcd6a7c5)
 
-**The Tectonics of Otherness** is a **research-creation project** initiated and led by **Marlon Barrios Solano** (Venezuela/USA) and **María Luisa Angulo** (El Salvador/France) was  being developed during the residency **Beyond Gravity** at **DIPOD / Theater im Depot** in **Dortmund, Germany**, within the **Beyond Gravity Festival and Symposium (October 1–5, 2025)**.
+**The Tectonics of Otherness** is a **research-creation project** initiated and led by **Marlon Barrios Solano** (Venezuela/USA) and **María Luisa Angulo** (El Salvador/France) was  developed during the residency **Beyond Gravity** at **DIPOD / Theater im Depot** in **Dortmund, Germany**, within the **Beyond Gravity Festival and Symposium (October 1–5, 2025)**.
 
 This project investigates the **tectonics of otherness** — the deep, shifting forces that shape relationships between **coloniality and postcoloniality**, **self and other**, **human and machine**, **memory and speculation**. We understand these forces as **dynamic vectors**, continuously in motion, intersecting across bodies, lands, and epistemologies.
 
@@ -30,6 +30,7 @@ Throughout the festival (**October 1–5, 2025**), the installation hosted **mom
 - **Participatory performances** inviting visitors to sense, move, and think with the **shifting tectonics of otherness**
 
 **The Tectonics of Otherness** proposes an ever-changing field of inquiry — a space of **migration, speculation, and embodied cognition**, where the **ground itself moves**, and we move with it.
+Images from creation process and festival:
 
 ![PXL_20251004_205251779](https://github.com/user-attachments/assets/373930df-6947-4cdc-8856-53ab0c5693db)
 ![PXL_20251004_201726349](https://github.com/user-attachments/assets/49fea9a1-7384-4d56-9a0e-4a8a1aeed0c1)
@@ -50,5 +51,7 @@ Throughout the festival (**October 1–5, 2025**), the installation hosted **mom
 ![PXL_20250815_123105072](https://github.com/user-attachments/assets/1c9d1799-2734-4e21-bb57-d5535e35d516)
 
 ![PXL_20251002_201724179](https://github.com/user-attachments/assets/a5f09939-3463-4253-9b13-63006ba48ceb)
+
+
 
 <a href="https://github.com/marlonbarrios/list_of_applications_UI/blob/mondrian/README.md#list_of_applications_ui" target="_blank">Apps and interfaces of Pangea in Latent Space The Tectonics of Otherness</a>
