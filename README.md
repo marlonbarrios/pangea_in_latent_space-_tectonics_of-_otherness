@@ -8,6 +8,8 @@ The **most constant element** we have discovered through this research is **move
 
 Within this framework, we have created a polimorphic mutating **physical and epistemic space**, traversed by **artificial intelligence**, where the **knowing of self and other** becomes entangled in **networks of power, memory perception, and imagination**. This **tectonic space** is **alive and shitfing**, transforming from day to day as the residency and exhibition unfolds .
 
+**The Tectonics of Otherness** was initiated and led by **Marlon Barrios Solano** (Venezuela/USA) and **María Luisa Angulo** (El Salvador/France)  and was  developed during the residency **Beyond Gravity** at **DIPOD / Theater im Depot** in **Dortmund, Germany**, within the **Beyond Gravity Festival and Symposium (October 1–5, 2025)**.
+
 The space, created welcomes the participation of **four international collaborators**:
 - **Lenara Werle** (Brazil/Germany)  
 - **Marcel Gbeffa** (Benin)  
@@ -27,7 +29,7 @@ Throughout the festival (**October 1–5, 2025**), the installation hosted **mom
 - **Low-latency AI companions** for speculative conversations across temporalities  
 - **Participatory performances** inviting visitors to sense, move, and think with the **shifting tectonics of otherness**
 
-**The Tectonics of Otherness** is a **research-creation project** and was initiated and led by **Marlon Barrios Solano** (Venezuela/USA) and **María Luisa Angulo** (El Salvador/France) was  developed during the residency **Beyond Gravity** at **DIPOD / Theater im Depot** in **Dortmund, Germany**, within the **Beyond Gravity Festival and Symposium (October 1–5, 2025)**.
+
 
 **The Tectonics of Otherness** proposes an ever-changing field of inquiry — a space of **migration, speculation, and embodied cognition**, where the **ground itself moves**, and we move with it.
 Images from creation process and festival:
