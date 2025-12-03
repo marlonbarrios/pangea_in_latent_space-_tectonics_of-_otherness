@@ -1,6 +1,6 @@
 # The Tectonics of Otherness @ Beyond Gravity Festival October 1 to 5th 2025, Dortmund | Germany
 
-<img width="1373" height="1000" alt="476354647-a408fcbd-4c1b-4901-b6ce-4614472d8c62" src="https://github.com/user-attachments/assets/f9e2d6d6-dc36-4d74-a1fe-0990e8dbbb68" />
+![PXL_20251003_141311277](https://github.com/user-attachments/assets/57a558c5-aad2-4919-ba4d-0734dcd6a7c5)
 
 **The Tectonics of Otherness** is a **research-creation project** initiated and led by **Marlon Barrios Solano** (Venezuela/USA) and **María Luisa Angulo** (El Salvador/France) was  being developed during the residency **Beyond Gravity** at **DIPOD / Theater im Depot** in **Dortmund, Germany**, within the **Beyond Gravity Festival and Symposium (October 1–5, 2025)**.
 
