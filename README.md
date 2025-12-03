@@ -1,4 +1,4 @@
-# The Tectonics of Otherness @ Beyond Gravity Festival October 1 to 5th, Dortmund | Germany
+# The Tectonics of Otherness @ Beyond Gravity Festival October 1 to 5th 2025, Dortmund | Germany
 
 <img width="1373" height="1000" alt="476354647-a408fcbd-4c1b-4901-b6ce-4614472d8c62" src="https://github.com/user-attachments/assets/f9e2d6d6-dc36-4d74-a1fe-0990e8dbbb68" />
 
@@ -49,5 +49,6 @@ Throughout the festival (**October 1–5, 2025**), the installation hosted **mom
 ![PXL_20250820_114220051](https://github.com/user-attachments/assets/8adf63b5-c2b5-4174-8080-2aecd915da82)
 ![PXL_20250815_123105072](https://github.com/user-attachments/assets/1c9d1799-2734-4e21-bb57-d5535e35d516)
 
+![PXL_20251002_201724179](https://github.com/user-attachments/assets/a5f09939-3463-4253-9b13-63006ba48ceb)
 
 <a href="https://github.com/marlonbarrios/list_of_applications_UI/blob/mondrian/README.md#list_of_applications_ui" target="_blank">Apps and interfaces of Pangea in Latent Space The Tectonics of Otherness</a>
