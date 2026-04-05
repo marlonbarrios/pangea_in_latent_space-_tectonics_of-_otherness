@@ -56,4 +56,3 @@ Images from creation process and festival:
 
 
 
-<a href="https://github.com/marlonbarrios/list_of_applications_UI/blob/mondrian/README.md#list_of_applications_ui" target="_blank">Apps and interfaces of The Tectonics of Otherness</a>
